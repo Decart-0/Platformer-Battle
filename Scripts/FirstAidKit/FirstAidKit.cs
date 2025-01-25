@@ -1,1 +1,0 @@
-public class FirstAidKit : Loot<float>, IPickupable {}

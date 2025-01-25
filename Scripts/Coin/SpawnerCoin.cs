@@ -1,1 +1,0 @@
-public class SpawnerCoin : Spawner<Coin> {}
